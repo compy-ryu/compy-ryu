@@ -2,8 +2,6 @@
 
 ## 반가워요! 👋<br>프로덕트에 몰입할 수 있는 개발자, **류현승**입니다.
 
-<br />
-
 ## Main
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
